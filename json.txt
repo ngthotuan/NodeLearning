@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nguyen Nhu Bao",
+        "age": 21
+    },
+    {
+        "name": "Vo Van Quy",
+        "age": 20
+    },
+    {
+        "name": "Dinh Hong Linh",
+        "age": 22
+    }
+]
+
+
+{
+    "sv01": {
+        "id_toan": "Mon Toan",
+        "id_ly": "Mon Ly"
+    },
+    "sv02": {
+        "id_toan": "Mon Toan",
+        "id_anh": "Mon Anh"
+    }
+}

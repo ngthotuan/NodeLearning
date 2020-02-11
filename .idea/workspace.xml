@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d50676a-7f09-43fb-b8ac-8fd3c2af4d5f" name="Default Changelist" comment="doi edittor">
-      <change afterPath="$PROJECT_DIR$/KeThuaEmitter/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KeThuaEmitter/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemplateLiteral/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/const/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeThuaEmitter/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applyAndCall/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ECMAScript 6" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -51,6 +51,7 @@
       <updated>1581302070001</updated>
       <workItem from="1581302073686" duration="5672000" />
       <workItem from="1581322748060" duration="3899000" />
+      <workItem from="1581382993393" duration="3837000" />
     </task>
     <task id="LOCAL-00001" summary="doi edittor">
       <created>1581302718538</created>
@@ -59,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581302718538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Template Literal, Utils">
+      <created>1581383097048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581383097048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="util.inherits Emitter">
+      <created>1581383142029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581383142029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,17 +82,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="doi edittor" />
-    <option name="LAST_COMMIT_MESSAGE" value="doi edittor" />
+    <MESSAGE value="Template Literal, Utils" />
+    <MESSAGE value="util.inherits Emitter" />
+    <option name="LAST_COMMIT_MESSAGE" value="util.inherits Emitter" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1581383095829">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1581383246372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581383095829" />
-    <state x="105" y="61" key="DiffContextDialog" timestamp="1581383083833">
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581383246372" />
+    <state x="105" y="61" key="DiffContextDialog" timestamp="1581383121345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="105" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581383083833" />
+    <state x="105" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581383121345" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581383102191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

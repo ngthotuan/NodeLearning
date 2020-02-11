@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d50676a-7f09-43fb-b8ac-8fd3c2af4d5f" name="Default Changelist" comment="doi edittor">
-      <change afterPath="$PROJECT_DIR$/KeThuaEmitter/app3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applyAndCall/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/app.js" afterDir="false" />
+    <list default="true" id="2d50676a-7f09-43fb-b8ac-8fd3c2af4d5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KeThuaEmitter/app4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
       <updated>1581302070001</updated>
       <workItem from="1581302073686" duration="5672000" />
       <workItem from="1581322748060" duration="3899000" />
-      <workItem from="1581382993393" duration="3837000" />
+      <workItem from="1581382993393" duration="5140000" />
     </task>
     <task id="LOCAL-00001" summary="doi edittor">
       <created>1581302718538</created>
@@ -74,7 +72,28 @@
       <option name="project" value="LOCAL" />
       <updated>1581383142029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="call + apply">
+      <created>1581388255517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581388255517</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ke thua sd call , apply, inherits">
+      <created>1581388312205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581388312205</updated>
+    </task>
+    <task id="LOCAL-00006" summary="class">
+      <created>1581388327439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581388327439</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,13 +103,16 @@
     <MESSAGE value="doi edittor" />
     <MESSAGE value="Template Literal, Utils" />
     <MESSAGE value="util.inherits Emitter" />
-    <option name="LAST_COMMIT_MESSAGE" value="util.inherits Emitter" />
+    <MESSAGE value="call + apply" />
+    <MESSAGE value="Ke thua sd call , apply, inherits" />
+    <MESSAGE value="class" />
+    <option name="LAST_COMMIT_MESSAGE" value="class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1581388311357">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1581388326760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581388311357" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581388326760" />
     <state x="105" y="61" key="DiffContextDialog" timestamp="1581388234525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

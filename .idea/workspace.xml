@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d50676a-7f09-43fb-b8ac-8fd3c2af4d5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JSONModify/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/npmLodash/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/npmLodash/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/npmLodash/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipe/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expressjs/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expressjs/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expressjs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +71,8 @@
       <workItem from="1581382993393" duration="11824000" />
       <workItem from="1581988556731" duration="20000" />
       <workItem from="1581988613158" duration="5696000" />
-      <workItem from="1582016655607" duration="2700000" />
+      <workItem from="1582016655607" duration="2937000" />
+      <workItem from="1582032262577" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="doi edittor">
       <created>1581302718538</created>
@@ -157,7 +151,42 @@
       <option name="project" value="LOCAL" />
       <updated>1581412948411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="thao tac voi file">
+      <created>1582019647325</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582019647325</updated>
+    </task>
+    <task id="LOCAL-00013" summary="gui du lieu json">
+      <created>1582019664791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582019664791</updated>
+    </task>
+    <task id="LOCAL-00014" summary="npm + sd thu vien lodash thao tac voi arr, collection">
+      <created>1582019706747</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1582019706747</updated>
+    </task>
+    <task id="LOCAL-00015" summary="nang cao hieu nang voi pipe">
+      <created>1582019728505</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1582019728505</updated>
+    </task>
+    <task id="LOCAL-00016" summary="dinh tuyen ung dung js">
+      <created>1582019748008</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1582019748008</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,13 +205,18 @@
     <MESSAGE value="buffer" />
     <MESSAGE value="type Array" />
     <MESSAGE value="Xử lí callback" />
-    <option name="LAST_COMMIT_MESSAGE" value="Xử lí callback" />
+    <MESSAGE value="thao tac voi file" />
+    <MESSAGE value="gui du lieu json" />
+    <MESSAGE value="npm + sd thu vien lodash thao tac voi arr, collection" />
+    <MESSAGE value="nang cao hieu nang voi pipe" />
+    <MESSAGE value="dinh tuyen ung dung js" />
+    <option name="LAST_COMMIT_MESSAGE" value="dinh tuyen ung dung js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1582019727384">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1582019747159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582019727384" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582019747159" />
     <state x="105" y="61" key="DiffContextDialog" timestamp="1581388234525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

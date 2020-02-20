@@ -11,7 +11,6 @@ app.listen(PORT, () => {
 });
 
 app.get("/", (req, res) => {
-    res.send("<h1>Hello Express</h1>");
     const connection = mysql.createConnection({
         host: "103.130.216.99",
         user: "nttuanco_admin",
@@ -31,7 +30,10 @@ app.get("/", (req, res) => {
         if(err){
             throw  err;
         }
-        console.log(rows);
+        rows.forEach(value => {
+            console.log((`id: ${value.id} => username: ${value.username}`));
+        });
+        res.send(rows);
     });
     connection.end();
 });

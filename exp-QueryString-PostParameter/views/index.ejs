@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Express EJS</title>
+    <link href="/style.css" type="text/css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+</head>
+<body>
+    <h1>Welcome to Express EJS</h1>
+
+    <form method="post" action="/login">
+        username: <input type="text" name="username">
+        <br>
+        password: <input type="password" name="password">
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        $.ajax({
+            type: "post",
+            url: "/loginjson",
+            data: JSON.stringify({username: "maihoa", password: "123456"}),
+            dataType: "json",
+            contentType: "application/json"
+        }
+        );
+    </script>
+</body>
+</html>
